@@ -2,6 +2,8 @@
 Por motivos legales no se proporciona la ROM del juego.
 
 ## Instrucciones del parche
+[Descargar el parche](./Micro%20Machines%20Military%20(Europe)%20(J-Cart).ips).
+
 Aplicar el parche .ips con un programa con capacidad de inyectar archivos IPS como [Lunar IPS](https://fusoya.eludevisibility.org/lips/index.html).
 Debe hacerse sobre la ROM del archivo: Micro Machines Military (Europe) (J-Cart).md
 
@@ -20,4 +22,4 @@ Los jugadores compiten en escenarios temáticos a través de diferentes modos de
 
 > Creado por AlexArroyoDuque
 
-> [https://www.romhacking.net/](https://www.romhacking.net/)
+> [https://www.romhacking.net](https://www.romhacking.net)
