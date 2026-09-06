@@ -8,6 +8,12 @@ Por motivos legales no se proporciona la ROM del juego.
 Aplicar el parche .ips con un programa con capacidad de inyectar archivos IPS como [Lunar IPS](https://fusoya.eludevisibility.org/lips/index.html).
 Debe hacerse sobre la ROM del archivo: Micro Machines Military (Europe) (J-Cart).md
 
+```
+Micro Machines - Military (Europe) (J-Cart)
+File/ROM SHA-1: 6D3DF64AB8BB0B559F216ADCA62D1CDD74704A26
+File/ROM CRC32: B3ABB15E
+```
+
 ## Notas del parche
 Se han traducido todos los textos que no involucran gráficos.
 
